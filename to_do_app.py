@@ -1,10 +1,33 @@
-tasks = []
+task_list = []
 
 def addTask():
     task = input("Please enter a task you want to complete: ")
-    tasks.append(task)
-    print(f"Task {task} has been added to the list.")
+    task_list.append(task)
+    print(f"Task '{task}' has been added to the list.")
 
+def listTasks():
+    if not task_list:
+        print("There are no tasks currently.")
+    else: 
+        print("Here are your current tasks: ")
+        for index, task in enumerate(task_list):
+            print(f"Task # {index}. {task}")
+
+def deleteTask():
+    listTasks()
+    if task_list:       
+        try:
+            taskToDelete = int(input("Enter the # to delete: "))
+            if taskToDelete >= 0 and taskToDelete < len(task_list):
+                task_list.pop(taskToDelete)
+                print(f"Task #{taskToDelete} has been removed.")
+                listTasks()
+            else:
+                print(f"Task #{taskToDelete} was not found.")    
+        except:
+            print("Invalid input.")
+    else:
+        return
 
 if __name__ == "__main__":
     # Create Loop to Run App
@@ -25,7 +48,7 @@ if __name__ == "__main__":
         elif(choice == "2"):
             deleteTask()
         elif(choice == "3"):
-            listTask()
+            listTasks()
         elif(choice == "4"):
             break
         else:
