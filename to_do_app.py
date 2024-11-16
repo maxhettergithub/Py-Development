@@ -54,4 +54,4 @@ if __name__ == "__main__":
         else:
             print("Invalid input. Please try again.")   
     
-    print("Goobbye")
+    print("Goodbye")
