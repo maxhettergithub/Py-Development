@@ -1,0 +1,74 @@
+1 Sergeant John Benton (WHO) 157
+1 Act of Heroism (HOU) 1
+1 Adamant Will (VOW) 1
+1 Alms Collector (CMM) 10
+1 Arbor Elf (LTC) 232
+1 Arboreal Grazer (WAR) 149
+1 Arcane Signet (SCD) 257
+1 Avacyn's Pilgrim (ISD) 170
+1 Azusa, Lost but Seeking (A25) 161 *F*
+1 Basilisk Collar (MM3) 216
+1 Become Immense (UMA) 157
+1 Birds of Paradise (10E) 252
+1 Blessed Respite (MH2) 150
+1 Blossoming Defense (PLST) KLD-146
+1 Broken Bond (DOM) 157
+1 Brushland (M3C) 324
+1 Command Tower (WHO) 265
+1 Crumb and Get It (BLB) 8
+1 Duelist's Heritage (MKC) 60
+1 Elvish Mystic (M14) 169
+1 Embiggen (UNF) 137
+1 Empyrial Armor (WTH) 13
+1 Empyrial Plate (MRD) 168
+1 Enter the Unknown (RIX) 128
+1 Flaming Fist (CLB) 18
+1 Flare of Faith (MID) 19 *F*
+16 Forest (M21) 274
+1 Fortified Village (MKC) 262
+1 Fyndhorn Elves (PLST) CMR-228
+1 Generous Gift (CMM) 624
+1 Giant Growth (RTR) 125
+1 Gift of the Viper (MH3) 156
+1 Gods Willing (M20) 19
+1 Hand of Vecna (AFR) 246
+1 Invigorate (GN3) 99
+1 Kaya's Onslaught (KHM) 18
+1 Kutzil, Malamet Exemplar (LCI) 304
+1 Lion Umbra (MH3) 426
+1 Llanowar Elves (FDN) 227
+1 Lush Portico (PMKM) 263p *F*
+1 Might of Old Krosa (2X2) 153
+1 Mutagenic Growth (PLST) NPH-116
+1 Obscuring Haze (CMM) 308
+1 Overprotect (BLB) 185
+1 Phytoburst (DGM) 46
+12 Plains (MH3) 311
+1 Prepare // Fight (AKH) 220
+1 Primal Bellow (ZEN) 176
+1 Promise of Loyalty (BLC) 148
+1 Psychosis Crawler (BRR) 44
+1 Ram Through (IKO) 170
+1 Reliquary Tower (DSC) 295
+1 Reprieve (LTR) 26
+1 Rogue's Passage (FDN) 264
+1 Scale Up (PLST) MH1-179
+1 Sentinel's Eyes (THB) 36
+1 Single Combat (PIP) 172
+1 Snakeskin Veil (OTJ) 181
+1 Sol Ring (C13) 259
+1 Spellbook (10E) 343
+1 Stroke of Midnight (FDN) 148 *F*
+1 Summer Bloom (6ED) 255
+1 Sunpetal Grove (M12) 229
+1 Swords to Plowshares (NEC) 89
+1 Tail Swipe (PLST) DMU-182
+1 Take Up the Shield (OTJ) 34
+1 Tamiyo's Safekeeping (NEO) 211
+1 Temple of Plenty (FDN) 703
+1 Titanic Growth (ONE) 187
+1 Tyvar's Stand (PLST) ONE-190
+1 Vines of Vastwood (PLST) ZEN-193
+1 Wild Defiance (AVR) 203
+1 Wild Growth (DMR) 352
+1 Wing It (MH3) 48
