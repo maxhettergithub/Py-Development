@@ -6,7 +6,7 @@ import time
 
 base_url = 'https://api.scryfall.com/cards'
 total_card_prices = 0
-file_path = r'C:\Users\Max\Documents\Development\Technical Development\Py-Development\sgt_john_benton_decklist.txt'
+file_path = 'file_path'
 card_count = []
 card_name = []
 set_code = []
