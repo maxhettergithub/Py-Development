@@ -1,1 +1,1 @@
-This project was created with the sole objective of documenting my side projects that I am creating whilst trying to learn Python. If you're a job recruiter... Hello! Thank you for your consideration :)
+This project was created with the sole objective of documenting my side projects that I am creating whilst trying to learn Python. 
